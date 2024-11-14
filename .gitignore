@@ -121,3 +121,7 @@ work_dirs/
 *.pth
 *.py~
 *.sh~
+
+# checkpoints and outputs
+checkpoints
+outputs
