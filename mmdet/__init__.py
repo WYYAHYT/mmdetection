@@ -3,6 +3,7 @@ import mmcv
 import mmengine
 from mmengine.utils import digit_version
 
+from .apis import *
 from .version import __version__, version_info
 
 mmcv_minimum_version = '2.0.0rc4'
